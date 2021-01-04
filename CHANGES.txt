@@ -1,4 +1,4 @@
-CHANGES
+CHANGES      |||| just for test||||
 =======
 
 0.13.0 (2016-12-14)
